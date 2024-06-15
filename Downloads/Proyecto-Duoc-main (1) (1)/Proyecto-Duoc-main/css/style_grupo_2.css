@@ -1,8 +1,8 @@
 .btn-primary {
     background-color: #F8BA21 !important;
     border: 0px !important;
+    color: #000000 !important;
 }
-
 
 @media only screen and (max-width: 991px) {
     #btn-cerrar {
@@ -91,6 +91,9 @@ justify-content: center;
     width: 100%;
 
     align-items: center;
+}
+.page-link{
+    color: #000000 ;
 }
 @media only screen and (max-width: 700px) {
     #form1{
